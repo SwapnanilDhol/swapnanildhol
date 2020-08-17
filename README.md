@@ -22,5 +22,5 @@ I am Swapnanil Dhol, you can call me Swap. I'm currently pursuing my bachelor's 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildhol&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=swapnanildhol)\
-**Buy me a Coffee**
-<a href="https://www.buymeacoffee.com/swapnanildhol" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px" ></a>
+**If you like my work maybe buy me a coffee?**
+<a href="https://www.buymeacoffee.com/swapnanildhol" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>

@@ -2,10 +2,10 @@
 
 I am Swapnanil Dhol, you can call me Swap. I'm currently pursuing my bachelor's degree majoring in computer science from SRM Institute of Science and Technology, Chennai, India. I am a WWDC 2019, WWDC 2020 Scholar, Google Summer of Code 2020 Student with VideoLAN, Microsoft Student Ambassador and a Aviation and Space Geek. You can find me on the internet at these places:
 
-[![Linkedin Badge](https://img.shields.io/badge/-swapnanildhol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnanildhol/)](https://www.linkedin.com/in/swapnanildhol/)
-[![Instagram Badge](https://img.shields.io/badge/-swapnanildhol-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/swapnanildhol/)](https://instagram.com/swapnanildhol)
-[![Youtube Badge](https://img.shields.io/badge/-tnqvd-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/tnqvd)](https://www.youtube.com/c/tnqvd)
-[![Medium Badge](https://img.shields.io/badge/-@swapnanil-dhol?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@swapnanildhol/)](https://medium.com/@swapnanildhol)
+[![Linkedin Badge](https://img.shields.io/badge/-swapnanildhol-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnanildhol/)](https://www.linkedin.com/in/swapnanildhol/)
+[![Instagram Badge](https://img.shields.io/badge/-swapnanildhol-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/swapnanildhol/)](https://instagram.com/swapnanildhol)
+[![Youtube Badge](https://img.shields.io/badge/-tnqvd-darkred?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/tnqvd)](https://www.youtube.com/c/tnqvd)
+[![Medium Badge](https://img.shields.io/badge/-@swapnanil-dhol?style=plastic-square&labelColor=000000&logo=Medium&link=https://medium.com/@swapnanildhol/)](https://medium.com/@swapnanildhol)
 
 ## 🖥 Technologies and Languages
 

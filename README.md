@@ -1,6 +1,8 @@
 ## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Swapnanil Dhol, you can call me Swap. I'm currently pursuing my bachelor's degree majoring in computer science from SRM Institute of Science and Technology, Chennai, India. I am a WWDC 2019, WWDC 2020 Scholar, Google Summer of Code 2020 Student with VideoLAN, Microsoft Student Ambassador and a Aviation and Space Geek. You can find me on the internet at these places:
+I am Swapnanil Dhol, you can call me Swap.
+I am an iOS Consultant at Loyalty Juggernaut India, while being a final year student at SRM Institute of Science and Technology, Chennai, India majoring in Computer Science and Engineering.
+I am a WWDC 2019, 2020, 2021 Scholar, Google Summer of Code 2020 Student with VideoLAN, Microsoft Student Ambassador, and an aviation, finance, and space geek. You can find me on the internet at these places:
 
 [![Linkedin Badge](https://img.shields.io/badge/-swapnanildhol-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnanildhol/)](https://www.linkedin.com/in/swapnanildhol/)
 [![Instagram Badge](https://img.shields.io/badge/-swapnanildhol-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/swapnanildhol/)](https://instagram.com/swapnanildhol)

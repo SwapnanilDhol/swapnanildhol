@@ -1,8 +1,6 @@
 ## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Swapnanil Dhol, you can call me Swap.
-I am an iOS Consultant at Loyalty Juggernaut India, while being a final year student at SRM Institute of Science and Technology, Chennai, India majoring in Computer Science and Engineering.
-I am a WWDC 2019, 2020, 2021 Scholar, Google Summer of Code 2020 Student with VideoLAN, Microsoft Student Ambassador, and an aviation, finance, and space geek. You can find me on the internet at these places:
+My name is Swapnanil Dhol and I'm an Senior iOS Engineer at Loyalty Juggernaut (LJI). Over the past few years, I have been recognized as a three-time WWDC scholar, earning this prestigious award in 2019, 2020, and 2021. In 2020, I was also selected to participate in the Google Summer of Code program, working on an open source project with VideoLAN. I have been featured as a developer on the app store and am proud to have contributed to the creation of eight successful apps. As an open source enthusiast, I am passionate about sharing my knowledge and experience with others in the development community. My GitHub bio showcases my skills and achievements, and I am always eager to take on new challenges and continue to grow as a developer. You can find me on the internet at these places:
 
 [![Linkedin Badge](https://img.shields.io/badge/-swapnanildhol-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnanildhol/)](https://www.linkedin.com/in/swapnanildhol/)
 [![Instagram Badge](https://img.shields.io/badge/-swapnanildhol-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/swapnanildhol/)](https://instagram.com/swapnanildhol)
